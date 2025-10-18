@@ -1,3 +1,3 @@
-# Android Network Security Scanner
+# OpenWrt
 
-This Android app scans WiFi or cellular internet connections for security issues, including detecting secure connections, DNS servers, WiFi/router security, and other tests like captive portals and VPN usage. Compatible with Android 15 and recent versions.
+OpenWrt security tools for auditing and hardening your router's firewall configuration. This repository contains scripts to scan for common security issues and automatically fix them on OpenWrt-based routers.
